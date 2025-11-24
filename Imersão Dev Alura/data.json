@@ -1,0 +1,27 @@
+[
+{
+    "nome" : "Triglicerídeos",
+    "descricao" : "Concentração de triglicerídeos circulantes no sangue.",
+    "link" : "TRIGLI"
+},
+{
+    "nome" : "Colesterol Total",
+    "descricao" : "Concentração de colesterol total circulante no sangue.",
+    "link" : "COLES"
+},
+{
+    "nome" : "Área sob a curva glicêmica",
+    "descricao" : "Medida da resposta glicêmica ao longo do tempo após a ingestão de glicose.",
+    "link" : "AUC"
+},
+{
+    "nome" : "HOMA-IR",
+    "descricao" : "Índice de resistência à insulina, calculado a partir dos níveis de glicose e insulina em jejum.",
+    "link" : "IR"
+},
+{
+    "nome" : "HOMA-β",
+    "descricao" : "Índice de função das células β-pancreáticas, calculado a partir dos níveis de glicose e insulina em jejum.",
+    "link" : "BETA"
+}
+]
